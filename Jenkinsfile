@@ -6,7 +6,7 @@ pipeline {
         GCP_PROJECT_ID         = "project-e60edbde-86e7-4e60-af7"
         GCP_REGION             = "us-central1"
         ARTIFACT_REGISTRY_REPO = "container-repository" 
-        CLOUD_RUN_SERVICE_NAME = "ejemplo"
+        CLOUD_RUN_SERVICE_NAME = "Clonado"
         
         // El secret ENVIRONMENT_NAME lo manejamos de forma segura en Jenkins
         // ENVIRONMENT_NAME       = credentials('ENVIRONMENT_NAME')
